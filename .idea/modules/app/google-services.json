@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56830408788",
+    "firebase_url": "https://authwarnet.firebaseio.com",
+    "project_id": "authwarnet",
+    "storage_bucket": "authwarnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56830408788:android:6eb1a1f4811e80613115c1",
+        "android_client_info": {
+          "package_name": "com.wnetsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56830408788-m3ml10ldh0dsarjem8cfpg691shq28tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wnetsi",
+            "certificate_hash": "7a0b1daa07aaa30d7d3c7b11cb74dd521bdb8852"
+          }
+        },
+        {
+          "client_id": "56830408788-o00r44tqgl3msmqm3d6vqugn4rkgo83n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABxqB-XzfQYOsNX_bUp8pc0NGrimqtRGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56830408788-o00r44tqgl3msmqm3d6vqugn4rkgo83n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

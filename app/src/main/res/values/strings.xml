@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">W-Net</string>
+    <string name="logo">Logo</string>
+    <string name="w_net">W - Net</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="daftar">Daftar</string>
+    <string name="sudah_memiliki_akun_login">Sudah memiliki akun? Login</string>
+    <string name="email">Email</string>
+    <string name="nama">Nama</string>
+    <string name="no_telepon">No Telepon</string>
+    <string name="password">Password</string>
+    <string name="logob">logob</string>
+    <string name="belum_memiliki_akun_daftar">Belum Memiliki Akun? Daftar</string>
+</resources>
