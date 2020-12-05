@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".w_net.HomeUser"></activity>
+        <activity android:name=".w_net.SendData"></activity>
+        <activity android:name=".w_net.HomeUser" />
         <activity android:name=".w_net.Login" />
         <activity android:name=".w_net.SignUp" />
         <activity android:name=".w_net.MainActivity">

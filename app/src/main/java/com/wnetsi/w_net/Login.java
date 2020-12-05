@@ -44,6 +44,10 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
         progressBar = (ProgressBar) findViewById(R.id.progressbarl);
 
         mAuth = FirebaseAuth.getInstance();
+
+//        if(mAuth.getCurrentUser()!=null){
+//            startActivity(new Intent(getApplicationContext(),SendData.class));
+//        }
     }
 
     @Override
@@ -89,7 +93,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener {
             public void onComplete(@NonNull Task<AuthResult> task) {
                 if(task.isSuccessful()){
                     //Redirect ke profil user
-                    startActivity(new Intent(Login.this, HomeUser.class));
+                    startActivity(new Intent(Login.this, SendData.class));
                 }
                 else{
                     Toast.makeText(Login.this,"Login Gagal! Mohon Dicek Kembali",Toast.LENGTH_LONG).show();

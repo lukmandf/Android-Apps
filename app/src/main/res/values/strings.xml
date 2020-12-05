@@ -12,4 +12,9 @@
     <string name="password">Password</string>
     <string name="logob">logob</string>
     <string name="belum_memiliki_akun_daftar">Belum Memiliki Akun? Daftar</string>
+    <string name="kirim">Kirim</string>
+    <string name="jumlah_pc">Jumlah PC</string>
+    <string name="waktu_mulai">Waktu Mulai</string>
+    <string name="lama_pemakaian">Lama Pemakaian</string>
+    <string name="gambar">Gambar</string>
 </resources>
